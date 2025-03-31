@@ -1,4 +1,2 @@
 X_Anahys.webm 
-X_OctagonLapdanceTeam.png 
-X_OctagonNightclubTeam.png 
-X_OctagonRaveTeam.png 
+X_OCTAGON.png 
