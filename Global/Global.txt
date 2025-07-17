@@ -3,4 +3,6 @@ X_Apply_Staff_Ad.png
 X_Donation_Ad.png 
 X_OCTAGON.png 
 X_OCTAGON_Lapdance.png 
+X_OCTAGON_Nightclub.png 
+X_OCTAGON_Rave.png 
 X_TheSnooze.png 
